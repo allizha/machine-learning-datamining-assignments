@@ -30,34 +30,29 @@ All assignments are implemented in Python using Jupyter notebooks, with a focus 
 The repository includes the following assignments:
 
 1. **K-Nearest Neighbors (KNN)**  
-
 2. **Generalization & Hyperparameter Tuning**  
-
 3. **Generalization & Hyperparameter Tuning (Part 2)**  
-
 4. **Perceptron & Logistic Regression**  
-
 5. **Neural Networks**  
-
 6. **Bayesian Inference & Decision Making**  
-
-7. **Bayes Classifier**  
+7. **Bayes Classifier** 
 
 ---
 
 ## Repository Structure
-machine-learning-datamining-assignments/
-├── README.md
-├── requirements.txt
-├── assignment01_knn.py
-├── assignment02_generalization_tuning.ipynb
-├── assignment03_generalization_tuning_part2.ipynb
-├── assignment04_perceptron_logistic_regression.ipynb
-├── assignment05_neural_networks.ipynb
-├── assignment06_bayesian_inference.ipynb
-├── assignment07_bayes_classifier.ipynb
-├── class.csv
-└── figures/
+
+    machine-learning-datamining-assignments/
+    ├── README.md
+    ├── requirements.txt
+    ├── assignment01_knn.py
+    ├── assignment02_generalization_tuning.ipynb
+    ├── assignment03_generalization_tuning_part2.ipynb
+    ├── assignment04_perceptron_logistic_regression.ipynb
+    ├── assignment05_neural_networks.ipynb
+    ├── assignment06_bayesian_inference.ipynb
+    ├── assignment07_bayes_classifier.ipynb
+    ├── class.csv
+    └── figures/
 ---
 
 ## Technologies Used
