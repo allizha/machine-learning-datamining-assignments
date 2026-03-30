@@ -43,7 +43,6 @@ The repository includes the following assignments:
 
     machine-learning-datamining-assignments/
     ├── README.md
-    ├── requirements.txt
     ├── assignment01_knn.py
     ├── assignment02_generalization_tuning.ipynb
     ├── assignment03_generalization_tuning_part2.ipynb
